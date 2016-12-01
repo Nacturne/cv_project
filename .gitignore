@@ -1,2 +1,4 @@
 *.npy
 *.csv
+*.mat
+*.gz
